@@ -41,7 +41,7 @@ CONST MONICA = {
   pronouns: "She" | "her",
   backend: ["Javascript", "Python", "Php"],
   frontend: ["HTML", "Javascript", "ReactJs", "CSS"],
-  database: ["Postgresql", "mySQL", "Oracle", "MS SQL"],
+  database: ["Postgresql", "mySQL", "Oracle", "MS SQL", "Supabase"],
   versionControl: ["Git", "GitHub", "Bitbucket", "GitLab"],
   tools: ["VS Code", "Sublime Text", "Postman", "Hubspot", "Slack"],
   cloudKnowledge: ["AWS Limited"]
