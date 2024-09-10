@@ -43,7 +43,12 @@ CONST MONICA = {
   frontend: ["HTML", "Javascript", "Typescript", "ReactJs", "CSS", "Bootstrap", "Tailwind CSS", "JQuery"],
   database: ["Postgresql", "mySQL", "Oracle", "MS SQL", "Supabase", "MongoDB"],
   versionControl: ["Git", "GitHub", "Bitbucket", "GitLab", "CI/CD"],
-  tools: ["VS Code", "Sublime Text", "Postman", "Hubspot", "Slack", "Docker", "Redash", "Greenhouse", "Grafana", "Postman", "Prometheus"],
+  devOps: ["Docker", "Prometheus", "Grafana"],
+  communication: ["Slack", "Microsoft Teams"],
+  projectManagement: ["Hubspot", "Greenhouse", "Easyvista", "Redmine", "Freshdesk"],
+  testing: ["Postman"],
+  textEditors: ["VS Code", "Sublime Text"],
+  reporting: ["Redash", "Excel"],
   cloudKnowledge: ["AWS Limited", "Vercel"]
 }
 ```
