@@ -39,11 +39,11 @@
 ```ruby
 CONST MONICA = {
   pronouns: "She" | "her",
-  backend: ["Javascript", "Python", "Php"],
+  backend: ["Javascript", "Python", "Php", "Bash"],
   frontend: ["HTML", "Javascript", "ReactJs", "CSS"],
   database: ["Postgresql", "mySQL", "Oracle", "MS SQL", "Supabase"],
-  versionControl: ["Git", "GitHub", "Bitbucket", "GitLab"],
-  tools: ["VS Code", "Sublime Text", "Postman", "Hubspot", "Slack"],
+  versionControl: ["Git", "GitHub", "Bitbucket", "GitLab", "CI/CD"],
+  tools: ["VS Code", "Sublime Text", "Postman", "Hubspot", "Slack", "Docker", "Redash"],
   cloudKnowledge: ["AWS Limited"]
 }
 ```
