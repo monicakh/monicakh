@@ -46,7 +46,7 @@ CONST MONICA = {
   devOps: ["Docker", "Prometheus", "Grafana"],
   communication: ["Slack", "Microsoft Teams"],
   projectManagement: ["Hubspot", "Greenhouse", "Easyvista", "Redmine", "Freshdesk"],
-  testing: ["Postman"],
+  testing: ["REST API", "Postman"],
   textEditors: ["VS Code", "Sublime Text"],
   reporting: ["Redash", "Excel"],
   cloudKnowledge: ["AWS Limited", "Vercel"]
