@@ -49,7 +49,7 @@ CONST MONICA = {
   testing: ["REST API", "Postman"],
   textEditors: ["VS Code", "Sublime Text"],
   reporting: ["Redash", "Excel"],
-  cloudKnowledge: ["AWS Limited", "Vercel"]
+  cloudKnowledge: ["AWS Limited", "Vercel", "Netlify"]
 }
 ```
 
