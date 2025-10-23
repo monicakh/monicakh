@@ -45,10 +45,10 @@ CONST MONICA = {
   versionControl: ["Git", "GitHub", "Bitbucket", "GitLab", "CI/CD"],
   devOps: ["Docker", "Prometheus", "Grafana", "Incident.io"],
   communication: ["Slack", "Microsoft Teams"],
-  projectManagement: ["Hubspot", "Greenhouse", "Easyvista", "Redmine", "Freshdesk"],
+  projectManagement: ["Hubspot", "Greenhouse", "Easyvista", "Redmine", "Freshdesk", "Front"],
   testing: ["REST API", "Postman"],
-  textEditors: ["VS Code", "Sublime Text"],
-  reporting: ["Redash", "Excel"],
+  textEditors: ["VS Code", "Sublime Text", "Cursor"],
+  reporting: ["Redash", "Excel", "Hex"],
   cloudKnowledge: ["AWS Limited", "Vercel", "Netlify"]
 }
 ```
