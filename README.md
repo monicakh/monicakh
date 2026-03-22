@@ -11,11 +11,12 @@
 <p align="center">
         <!-- Intro -->
         <samp>
-                「 I'm a full stack web developer from <b>Lebanon</b> 」
-                <br>
-                「 Focused on developing web applications that improve lives</b> 」
-                <br>
-        </samp>
+「 Full-stack developer building scalable web applications 」
+<br>
+「 Focused on developer tools and systems that improve how people build software 」
+<br>
+「 Helping developers build better apps @ Supabase 」
+</samp>
 </p>
 
 <details align="center">
