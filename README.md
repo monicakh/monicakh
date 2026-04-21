@@ -1,4 +1,4 @@
-[![Lebanese Dev on lebhub.xyz](https://iilpqhmmreujnytctjwh.supabase.co/functions/v1/badge-svg?user=monicakh)](https://lebhub.xyz/dev/monicakh)
+[![Verified Lebanese Dev on lebhub.xyz](https://iilpqhmmreujnytctjwh.supabase.co/functions/v1/badge-svg?user=monicakh)](https://lebhub.xyz/dev/monicakh)
 <br/>
 ![](https://komarev.com/ghpvc/?username=monicakh&color=lightgrey) 
 
